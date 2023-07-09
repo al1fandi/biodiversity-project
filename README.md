@@ -8,11 +8,11 @@
 * The python modules used were matplotlib, scipy, pandas, and numpy.
 
 # Project Goals
-Central question:
+Objective:
 
 **Understanding characteristics about the species and their conservations status, and those species and their relationship to the National Parks.**
 
-Other questions:
+Questions:
 * What is the distribution of conservation status for species?
 * Are certain types of species more likely to be endangered?
 * Are the differences between species and their conservation status significant?
