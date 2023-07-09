@@ -7,8 +7,9 @@
 * It was also found that Yellowstone National Park has good biodiversity.
 * The libraries used were matplotlib, scipy, pandas, and numpy.
 
-## Project Goals
+# Project Goals
 Central question:
+
 **Understanding characteristics about the species and their conservations status, and those species and their relationship to the National Parks.**
 
 Other question:
