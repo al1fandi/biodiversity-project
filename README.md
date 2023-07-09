@@ -12,7 +12,7 @@ Central question:
 
 **Understanding characteristics about the species and their conservations status, and those species and their relationship to the National Parks.**
 
-Other question:
+Other questions:
 * What is the distribution of conservation status for species?
 * Are certain types of species more likely to be endangered?
 * Are the differences between species and their conservation status significant?
