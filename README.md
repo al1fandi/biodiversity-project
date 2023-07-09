@@ -25,10 +25,10 @@ Other questions:
 Setelah mengimport modul dan memuat dataset dari dua file csv, kita akan membersihkan data dan memahaminya.
 * Penggantian nilai null agar data mudah dipahami.
 * Mempelajari data :
-*   Ada sekitar 5541 spesies.
-*   Kategori spesies terdiri dari Mamalia, Burung, Reptil, Amfibi, Ikan, Tanaman Vascular, Tanaman Non-vascular.
-*   Status konservasi spesies meliputi No Intervention, Species of Concern, Endangered, Threatened, and In Recovery.
-*   Taman Nasional yang menjadi tempat pengamatan yaitu Great Smoky Mountains National Park, Yosemite National Park, Bryce National Park, and Yellowstone National Park.
+    * Ada sekitar 5541 spesies.
+    * Kategori spesies terdiri dari Mamalia, Burung, Reptil, Amfibi, Ikan, Tanaman Vascular, Tanaman Non-vascular.
+    * Status konservasi spesies meliputi No Intervention, Species of Concern, Endangered, Threatened, and In Recovery.
+    * Taman Nasional yang menjadi tempat pengamatan yaitu Great Smoky Mountains National Park, Yosemite National Park, Bryce National Park, and Yellowstone National Park.
 
 
  
