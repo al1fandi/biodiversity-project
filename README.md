@@ -8,8 +8,10 @@
 * The libraries used were matplotlib, scipy, pandas, and numpy.
 
 ## Project Goals
-The main objectives as an analyst will be understanding characteristics about the species and their conservations status, and those species and their relationship to the national parks. Some questions that are posed:
+Central question:
+**Understanding characteristics about the species and their conservations status, and those species and their relationship to the National Parks.**
 
+Other question:
 * What is the distribution of conservation status for species?
 * Are certain types of species more likely to be endangered?
 * Are the differences between species and their conservation status significant?
