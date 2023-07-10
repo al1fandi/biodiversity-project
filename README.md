@@ -43,7 +43,7 @@ The data was analyzed by answering the questions that had been asked. Some concl
 ![percentageprotected](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Percentage%20of%20Protected%20Species.png?raw=true)
 
 
-* Statistical significant: Based on the p-value, it was found that Mammals are more endangered than Reptiles.   
+* Statistical significant: Based on the p-value, it was found that **Mammals** are more endangered than **Reptiles**.   
 
 
 * Species distribution in National Parks: Various terrestrial, aquatic, and semi-aquatic animals inhabit **Yellowstone National Park**. This finding indicates that Yellowstone National Park has good biodiversity, especially animals.
