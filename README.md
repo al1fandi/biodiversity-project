@@ -43,7 +43,7 @@ The data was analyzed by answering the questions that had been asked. Some concl
 
 
 * Species distribution in National Parks: Various terrestrial, aquatic, and semi-aquatic animals inhabit **Yellowstone National Park**. This finding indicates that Yellowstone National Park has good biodiversity, especially animals.
-
+![animaldistributioninnationalpark](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Animal%20Species%20Distribution%20in%20National%20Park2.png?raw=true) 
 
 * Distribution of conservation status in birds: There are still many birds that are **not protected**. We've got 72 **Species of Concern**, 3 **In Recovery**, and 4 **Endangered** species.
 
