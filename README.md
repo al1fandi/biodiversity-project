@@ -34,8 +34,13 @@ Setelah mengimport modul dan memuat dataset dari dua file csv, kita akan members
 The data was analyzed by answering the questions that had been asked. Some conclusions were obtained, which are presented below.
 
 * Distribution of conservation status: **Species of Concern** has the highest conservation status with 151 species. In addition, there are 15 species categorized as **Endangered** and 10 species categorized as **Threatened**.
+  
+![conservationstatusbyspecies](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Conservation%20Status%20by%20Species-Nointervention.png?raw=true)
+
 
 * Certain types of species that are endangered: Species in category Mammal are potentially endangered than Bird and the other species.
+
+![percentageprotected](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Percentage%20of%20Protected%20Species.png?raw=true)
 
 
 * Statistical significant: Based on the p-value, it was found that Mammals are more endangered than Reptiles.   
@@ -46,10 +51,12 @@ The data was analyzed by answering the questions that had been asked. Some concl
 ![animaldistributioninnationalpark](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Animal%20Species%20Distribution%20in%20National%20Park2.png?raw=true) 
 
 * Distribution of conservation status in birds: There are still many birds that are **not protected**. We've got 72 **Species of Concern**, 3 **In Recovery**, and 4 **Endangered** species.
-
+  
+![conservationstatusofbird](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Distribution%20of%20Conservation%20Status%20in%20Birds.png?raw=true)
   
 * Distribution of conservation status in birds of prey: No birds of prey were found to be **Endangered**. Most birds of prey are still unprotected, with 10 **Species of Concern** and 1 species **In Recovery**.
 
+![conservationstatusofbirdofprey](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Distribution%20of%20Conservation%20Status%20in%20Birds%20of%20Prey.png?raw=true)
 
 * Bird of prey distribution in National Parks: Birds of prey are common in **Yellowstone National Park**.
 
@@ -65,5 +72,3 @@ The data was analyzed by answering the questions that had been asked. Some concl
 * No birds of prey are classified as **Endangered**. There are 11 protected species and 23 unprotected species.
 * Birds of prey are most common in **Yellowstone National Park**.
 * You can access the code in this link.
-
- 
