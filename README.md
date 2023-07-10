@@ -30,5 +30,19 @@ Setelah mengimport modul dan memuat dataset dari dua file csv, kita akan members
     * Species conservation status includes No Intervention, Species of Concern, Endangered, Threatened, and In Recovery.
     * The National Parks that were observed are Great Smoky Mountains National Park, Yosemite National Park, Bryce National Park, and Yellowstone National Park.
 
+# Analysis
+The data was analyzed by answering the questions that had been asked. Some conclusions were obtained, which are presented below.
+
+* Distribution of conservation status: 'Species of Concern' has the highest conservation status with 151 species. In addition, there are 15 species categorized as 'Endangered' and 10 species categorized as 'Threatened'.
+
+
+* Certain types of species that are endangered: species in category Mammal are potentially endangered than Bird and the other species .
+
+
+* Statistical significant:
+* Species distribution in national parks:
+* Distribution of conservation status in birds:
+* Distribution of conservation status in birds of prey:
+* Bird of prey distribution: 
 
  
