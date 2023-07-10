@@ -33,16 +33,34 @@ Setelah mengimport modul dan memuat dataset dari dua file csv, kita akan members
 # Analysis
 The data was analyzed by answering the questions that had been asked. Some conclusions were obtained, which are presented below.
 
-* Distribution of conservation status: 'Species of Concern' has the highest conservation status with 151 species. In addition, there are 15 species categorized as 'Endangered' and 10 species categorized as 'Threatened'.
+* Distribution of conservation status: **Species of Concern** has the highest conservation status with 151 species. In addition, there are 15 species categorized as **Endangered** and 10 species categorized as **Threatened**.
 
 
-* Certain types of species that are endangered: species in category Mammal are potentially endangered than Bird and the other species .
+* Certain types of species that are endangered: Species in category Mammal are potentially endangered than Bird and the other species.
 
 
-* Statistical significant:
-* Species distribution in national parks:
-* Distribution of conservation status in birds:
-* Distribution of conservation status in birds of prey:
-* Bird of prey distribution: 
+* Statistical significant: Based on the p-value, it was found that Mammals are more endangered than Reptiles.   
+
+
+* Species distribution in National Parks: Various terrestrial, aquatic, and semi-aquatic animals inhabit **Yellowstone National Park**. This finding indicates that Yellowstone National Park has good biodiversity, especially animals.
+
+
+* Distribution of conservation status in birds: There are still many birds that are **not protected**. We've got 72 **Species of Concern**, 3 **In Recovery**, and 4 **Endangered** species.
+
+  
+* Distribution of conservation status in birds of prey: No birds of prey were found to be **Endangered**. Most birds of prey are still unprotected, with 10 **Species of Concern** and 1 species **In Recovery**.
+
+
+* Bird of prey distribution in National Parks: Birds of prey are common in **Yellowstone National Park**.
+
+# Conclusions
+* Most are **Species of Concern**, but a valuable finding is that of the 25 threatened species, 15 are **Endangered**.
+* Mammal and Bird species are more likely to be **Endangered**.
+* Based on statistical tests, Birds are more likely to be **Endangered** than Reptiles.
+* Birds are the most common animals found. The largest distribution of animals is in **Yellowstone National Park**.
+* Many birds are still not protected. There are 79 birds with **Protected** status, 4 of which are **Endangered**.
+* No birds of prey are classified as **Endangered**. There are 11 protected species and 23 unprotected species.
+* Birds of prey are most common in **Yellowstone National Park**.
+* You can access the code in this link.
 
  
