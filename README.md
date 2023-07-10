@@ -35,7 +35,6 @@ The data was analyzed by answering the questions that had been asked. Some concl
 
 * Distribution of conservation status: **Species of Concern** has the highest conservation status with 151 species. In addition, there are 15 species categorized as **Endangered** and 10 species categorized as **Threatened**.
 
-
 * Certain types of species that are endangered: Species in category Mammal are potentially endangered than Bird and the other species.
 
 
@@ -53,6 +52,9 @@ The data was analyzed by answering the questions that had been asked. Some concl
 
 
 * Bird of prey distribution in National Parks: Birds of prey are common in **Yellowstone National Park**.
+
+![birdofpreydistribution](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Bird%20of%20Prey%20Distribution%20in%20National%20Park.png?raw=true)
+
 
 # Conclusions
 * Most are **Species of Concern**, but a valuable finding is that of the 25 threatened species, 15 are **Endangered**.
